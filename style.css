@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+}
+.img{
+     height: 130vh;
+     width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(PIC/image1.png);
+    background-attachment: fixed;
+     
+}
+h1{
+    top: 415px;
+    background-color: rgb(49, 53, 52);
+    padding: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 509px;
+    width: 350px;
+}
+.text{
+    background-color:#f4f4f4 ;
+    color: #666;
+    text-align: center;
+    padding: 50px 80px
+}
+.pic{
+    background-image: url(PIC/image2.png);
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.div2{
+    top: 1360px;
+    background-color: rgb(49, 53, 52);
+    padding: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 509px;
+    width: 350px;
+}
+.text2{
+    background-color:#282e34 ;
+    color: #ddd;
+    text-align: center;
+    padding: 50px 70px
+}
+.img2{
+    background-image: url(PIC/image3.png);
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 400px;
+}
+.div3{
+    top: 2210px;
+    background-color: rgb(49, 53, 52);
+    padding: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 509px;
+    width: 442px;
+}
+.text3{
+    background-color:#282e34 ;
+    color: #ddd;
+    text-align: center;
+    padding: 50px 70px
+}
+.img3{
+    background-image: url(PIC/image1.png);
+    height: 120vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     
+}
+.text4{
+     top: 3200px;
+    background-color: rgb(49, 53, 52);
+    padding: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 509px;
+    width: 350px;
+}
+    
+     
